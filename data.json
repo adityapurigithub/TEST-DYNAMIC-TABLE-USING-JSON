@@ -1,0 +1,55 @@
+{
+  "data": [
+    [
+      "Machine Name",
+      "Machine_Id",
+      "current",
+      "voltage",
+      "power_factor",
+      "active_power",
+      "apparent_power",
+      "reactive_power",
+      "daily_energy",
+      "monthly_energy",
+      "yearly_energy",
+      "idle_daily",
+      "idle_monthly",
+      "idle_yearly"
+    ],
+
+    [
+      "Auto Winding Machine",
+      "machine001",
+      0,
+      0,
+      0,
+      0.0,
+      0.0,
+      0.0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    ["Boiler Machine", "machine002", 0, 0, 0, 0.0, 0.0, 0.0, 0, 0, 0, 0, 0, 0],
+    [
+      "Book Making machine",
+      "machine003",
+      0,
+      0,
+      0,
+      0.0,
+      0.0,
+      0.0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    ["Cutting Machine", "machine004", 0, 0, 0, 0.0, 0.0, 0.0, 0, 0, 0, 0, 0, 0]
+  ]
+}

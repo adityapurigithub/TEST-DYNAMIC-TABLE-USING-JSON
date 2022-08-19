@@ -1,0 +1,30 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.table-layout {
+  width: 100%;
+  margin: 40px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#table table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+}
+thead {
+  padding: 10px;
+}
+td,
+tr {
+  border: 1px solid rgba(0, 0, 0, 0.3);
+  text-align: center;
+  padding: 5px;
+}
+
+td:nth-child(2n) {
+  background-color: #ffe0e0;
+}
